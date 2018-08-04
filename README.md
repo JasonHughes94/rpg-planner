@@ -1,21 +1,7 @@
 # rpg-planner
 
-## Project setup
-```
-yarn install
-```
+Currently a WIP
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Goal is to use this as a gateway project to learn Vue :D
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+Once the project is up and running PR's will be more than welcome.
